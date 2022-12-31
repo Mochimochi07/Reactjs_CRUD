@@ -1,0 +1,19 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Mega Man",
+      "releaseYear": 1987
+    },
+    {
+      "id": 2,
+      "title": "Mega Man 2",
+      "releaseYear": 1988
+    },
+    {
+      "id": 3,
+      "title": "Mega Man 3",
+      "releaseYear": 1990
+    }
+  ]
+}
