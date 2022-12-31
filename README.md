@@ -2,4 +2,6 @@
 
 This is my sample react js with no database and just using json.
 
-feel free to use this react app.
+oh yeah this is just a testing app.
+
+feel free to use this to test your imagination for front end
